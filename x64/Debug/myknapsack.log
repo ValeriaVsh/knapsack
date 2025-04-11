@@ -1,0 +1,10 @@
+﻿  myknapsack.cpp
+C:\knapsack\knapsack\myknapsack\myknapsack.cpp(27,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\knapsack\knapsack\myknapsack\myknapsack.cpp(90,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\knapsack\knapsack\myknapsack\include\CoinHelperFunctions.hpp(360,19): warning C4244: 'argument': conversion from 'const CoinByteArray' to 'const CoinBigIndex', possible loss of data
+C:\knapsack\knapsack\myknapsack\include\CoinHelperFunctions.hpp(625): message : see reference to function template instantiation 'void CoinMemcpyN<char>(const T *,const CoinByteArray,T *)' being compiled
+          with
+          [
+              T=char
+          ]
+  myknapsack.vcxproj -> C:\knapsack\knapsack\myknapsack\x64\Debug\myknapsack.exe
