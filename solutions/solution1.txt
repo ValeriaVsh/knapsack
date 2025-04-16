@@ -1,0 +1,236 @@
+Enter number of items from 200 to 1000: 200
+
+Enter maximum weight of an item: 10
+
+Enter maximum price of an item: 10
+
+Enter knapsack capacity: 10
+
+Clp0000I Optimal - objective value -88
+Cbc0045I May be able to increase cutoff increment to 0.9999 - but we have lazy constraints
+Clp0000I Optimal - objective value -88
+Cbc0046I Root node pass 1, 1 rows, 0 total tight cuts  -  objective 88
+Clp0000I Optimal - objective value -82
+Clp0000I Optimal - objective value -82
+Cbc0046I Root node pass 2, 2 rows, 1 total tight cuts  -  objective 82
+Clp0000I Optimal - objective value -68
+Clp0000I Optimal - objective value -68
+Cbc0046I Root node pass 3, 2 rows, 1 total tight cuts  -  objective 68
+Clp0000I Optimal - objective value -50
+Clp0000I Optimal - objective value -50
+Cbc0046I Root node pass 4, 2 rows, 1 total tight cuts  -  objective 50
+Cbc0031I 1 added rows had average density of 200
+Cbc0013I At root node, 1 cuts changed objective from 88 to 50 in 4 passes
+Cbc0014I Cut generator 0 (Odd number of items) - 8 row cuts average 200.0 elements, 0 column cuts (0 active)
+Clp0000I Optimal - objective value -50
+Node 0 depth 0 unsatisfied 0 sum 0 obj 50 guess 50 branching on -1
+Clp0000I Optimal - objective value -50
+Cbc0004I Integer solution of 50 found after 11 iterations and 0 nodes (0.03 seconds)
+Cbc0001I Search completed - best objective 50, took 11 iterations and 0 nodes (0.03 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Clp0000I Optimal - objective value -50
+Clp0000I Optimal - objective value -50
+0 has value 0 price: 6 weight: 5
+1 has value 0 price: 6 weight: 4
+2 has value 0 price: 4 weight: 8
+3 has value 0 price: 7 weight: 5
+4 has value 0 price: 3 weight: 9
+5 has value 0 price: 1 weight: 10
+6 has value 0 price: 4 weight: 8
+7 has value 1 price: 10 weight: 3
+8 has value 0 price: 9 weight: 9
+9 has value 0 price: 3 weight: 2
+10 has value 0 price: 10 weight: 9
+11 has value 0 price: 10 weight: 3
+12 has value 0 price: 5 weight: 2
+13 has value 0 price: 6 weight: 4
+14 has value 0 price: 2 weight: 1
+15 has value 0 price: 4 weight: 7
+16 has value 0 price: 3 weight: 1
+17 has value 0 price: 1 weight: 10
+18 has value 0 price: 7 weight: 1
+19 has value 0 price: 3 weight: 6
+20 has value 0 price: 8 weight: 3
+21 has value 0 price: 7 weight: 5
+22 has value 0 price: 3 weight: 4
+23 has value 0 price: 6 weight: 2
+24 has value 0 price: 1 weight: 9
+25 has value 0 price: 2 weight: 8
+26 has value 0 price: 6 weight: 10
+27 has value 0 price: 7 weight: 2
+28 has value 0 price: 7 weight: 7
+29 has value 0 price: 7 weight: 9
+30 has value 0 price: 5 weight: 7
+31 has value 0 price: 1 weight: 2
+32 has value 0 price: 10 weight: 7
+33 has value 0 price: 6 weight: 9
+34 has value 0 price: 4 weight: 1
+35 has value 0 price: 8 weight: 3
+36 has value 0 price: 7 weight: 1
+37 has value 0 price: 6 weight: 2
+38 has value 0 price: 3 weight: 6
+39 has value 0 price: 9 weight: 5
+40 has value 0 price: 7 weight: 6
+41 has value 0 price: 1 weight: 2
+42 has value 0 price: 6 weight: 9
+43 has value 0 price: 3 weight: 6
+44 has value 0 price: 2 weight: 3
+45 has value 0 price: 2 weight: 9
+46 has value 0 price: 9 weight: 10
+47 has value 0 price: 2 weight: 6
+48 has value 0 price: 9 weight: 3
+49 has value 0 price: 6 weight: 5
+50 has value 0 price: 8 weight: 8
+51 has value 0 price: 9 weight: 8
+52 has value 0 price: 5 weight: 5
+53 has value 0 price: 2 weight: 1
+54 has value 0 price: 9 weight: 3
+55 has value 0 price: 10 weight: 9
+56 has value 0 price: 3 weight: 4
+57 has value 0 price: 7 weight: 3
+58 has value 0 price: 1 weight: 2
+59 has value 0 price: 2 weight: 5
+60 has value 0 price: 5 weight: 3
+61 has value 0 price: 9 weight: 10
+62 has value 0 price: 4 weight: 1
+63 has value 0 price: 6 weight: 7
+64 has value 0 price: 3 weight: 7
+65 has value 0 price: 5 weight: 10
+66 has value 0 price: 4 weight: 7
+67 has value 1 price: 10 weight: 1
+68 has value 0 price: 9 weight: 6
+69 has value 0 price: 1 weight: 3
+70 has value 0 price: 5 weight: 7
+71 has value 0 price: 7 weight: 4
+72 has value 0 price: 3 weight: 1
+73 has value 0 price: 7 weight: 1
+74 has value 0 price: 5 weight: 3
+75 has value 0 price: 9 weight: 2
+76 has value 0 price: 2 weight: 6
+77 has value 0 price: 7 weight: 3
+78 has value 0 price: 3 weight: 9
+79 has value 0 price: 10 weight: 6
+80 has value 0 price: 4 weight: 2
+81 has value 0 price: 6 weight: 9
+82 has value 0 price: 8 weight: 4
+83 has value 0 price: 6 weight: 7
+84 has value 0 price: 8 weight: 1
+85 has value 0 price: 8 weight: 7
+86 has value 0 price: 9 weight: 9
+87 has value 0 price: 10 weight: 8
+88 has value 0 price: 3 weight: 3
+89 has value 0 price: 6 weight: 7
+90 has value 0 price: 2 weight: 3
+91 has value 0 price: 3 weight: 5
+92 has value 0 price: 1 weight: 6
+93 has value 0 price: 4 weight: 8
+94 has value 0 price: 6 weight: 8
+95 has value 0 price: 7 weight: 1
+96 has value 0 price: 2 weight: 10
+97 has value 0 price: 3 weight: 6
+98 has value 0 price: 6 weight: 4
+99 has value 0 price: 7 weight: 5
+100 has value 0 price: 8 weight: 1
+101 has value 0 price: 6 weight: 8
+102 has value 0 price: 8 weight: 3
+103 has value 0 price: 4 weight: 8
+104 has value 0 price: 3 weight: 5
+105 has value 0 price: 1 weight: 2
+106 has value 0 price: 7 weight: 1
+107 has value 0 price: 1 weight: 2
+108 has value 0 price: 8 weight: 7
+109 has value 0 price: 4 weight: 9
+110 has value 0 price: 10 weight: 4
+111 has value 0 price: 3 weight: 9
+112 has value 0 price: 3 weight: 2
+113 has value 0 price: 6 weight: 10
+114 has value 0 price: 6 weight: 3
+115 has value 0 price: 8 weight: 1
+116 has value 0 price: 1 weight: 3
+117 has value 0 price: 3 weight: 8
+118 has value 0 price: 3 weight: 1
+119 has value 0 price: 9 weight: 9
+120 has value 0 price: 5 weight: 6
+121 has value 0 price: 4 weight: 7
+122 has value 0 price: 7 weight: 2
+123 has value 0 price: 10 weight: 6
+124 has value 0 price: 1 weight: 8
+125 has value 0 price: 5 weight: 5
+126 has value 0 price: 2 weight: 5
+127 has value 0 price: 1 weight: 2
+128 has value 0 price: 2 weight: 4
+129 has value 0 price: 6 weight: 5
+130 has value 0 price: 2 weight: 6
+131 has value 0 price: 10 weight: 10
+132 has value 0 price: 2 weight: 3
+133 has value 0 price: 3 weight: 5
+134 has value 0 price: 10 weight: 8
+135 has value 0 price: 2 weight: 6
+136 has value 0 price: 3 weight: 10
+137 has value 0 price: 7 weight: 7
+138 has value 0 price: 8 weight: 2
+139 has value 0 price: 6 weight: 9
+140 has value 0 price: 1 weight: 9
+141 has value 0 price: 10 weight: 6
+142 has value 1 price: 10 weight: 1
+143 has value 0 price: 6 weight: 1
+144 has value 0 price: 2 weight: 5
+145 has value 0 price: 6 weight: 9
+146 has value 0 price: 6 weight: 5
+147 has value 0 price: 1 weight: 7
+148 has value 0 price: 3 weight: 8
+149 has value 1 price: 10 weight: 1
+150 has value 0 price: 2 weight: 9
+151 has value 0 price: 5 weight: 5
+152 has value 0 price: 1 weight: 7
+153 has value 0 price: 4 weight: 10
+154 has value 0 price: 4 weight: 4
+155 has value 0 price: 4 weight: 7
+156 has value 0 price: 5 weight: 7
+157 has value 0 price: 3 weight: 3
+158 has value 0 price: 10 weight: 9
+159 has value 0 price: 6 weight: 4
+160 has value 0 price: 9 weight: 4
+161 has value 0 price: 2 weight: 9
+162 has value 0 price: 7 weight: 4
+163 has value 0 price: 2 weight: 9
+164 has value 0 price: 5 weight: 1
+165 has value 0 price: 8 weight: 10
+166 has value 0 price: 2 weight: 1
+167 has value 0 price: 1 weight: 9
+168 has value 0 price: 5 weight: 2
+169 has value 0 price: 6 weight: 9
+170 has value 0 price: 9 weight: 1
+171 has value 0 price: 5 weight: 2
+172 has value 0 price: 7 weight: 10
+173 has value 0 price: 10 weight: 6
+174 has value 1 price: 10 weight: 1
+175 has value 0 price: 2 weight: 7
+176 has value 0 price: 1 weight: 9
+177 has value 0 price: 3 weight: 5
+178 has value 0 price: 6 weight: 8
+179 has value 0 price: 6 weight: 3
+180 has value 0 price: 2 weight: 6
+181 has value 0 price: 8 weight: 4
+182 has value 0 price: 3 weight: 6
+183 has value 0 price: 3 weight: 6
+184 has value 0 price: 10 weight: 5
+185 has value 0 price: 6 weight: 9
+186 has value 0 price: 9 weight: 10
+187 has value 0 price: 6 weight: 1
+188 has value 0 price: 8 weight: 1
+189 has value 0 price: 6 weight: 8
+190 has value 0 price: 2 weight: 8
+191 has value 0 price: 9 weight: 7
+192 has value 0 price: 7 weight: 10
+193 has value 0 price: 2 weight: 2
+194 has value 0 price: 1 weight: 10
+195 has value 0 price: 9 weight: 2
+196 has value 0 price: 4 weight: 1
+197 has value 0 price: 4 weight: 4
+198 has value 0 price: 8 weight: 3
+199 has value 0 price: 4 weight: 3
+
+items in knapsack: 5
+knapsack weight: 7 <= 10
+knapsack price: 50

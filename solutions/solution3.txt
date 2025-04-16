@@ -1,0 +1,878 @@
+Enter number of items from 200 to 1000: 250
+
+Enter maximum weight of an item: 500
+
+Enter maximum price of an item: 500
+
+Enter knapsack capacity: 100
+
+Clp0000I Optimal - objective value -2942.2
+Cbc0045I May be able to increase cutoff increment to 0.9999 - but we have lazy constraints
+Clp0000I Optimal - objective value -2942.2
+Cbc0046I Root node pass 1, 1 rows, 0 total tight cuts  -  objective 2942.2
+Cbc0013I At root node, 0 cuts changed objective from 2942.2 to 2942.2 in 1 passes
+Cbc0014I Cut generator 0 (Odd number of items) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)
+Node 0 depth 0 unsatisfied 1 sum 9e+11 obj 2942.2 guess 2942.1 branching on 34
+Cbc0039I Strong branching on all 0 unfixed variables (0 unsatisfied), 2 iterations (depth 0)
+Clp0000I Optimal - objective value -2940.6
+Node 1 depth 1 unsatisfied 1 sum 2.60558e+15 obj 2940.6 guess 2937.4 branching on 106
+Clp0000I Optimal - objective value -2924.6364
+Node 2 depth 2 unsatisfied 1 sum 7.31451e+15 obj 2924.64 guess 2911.57 branching on 95
+Clp0000I Optimal - objective value -2909.0714
+Node 3 depth 3 unsatisfied 1 sum 7.17462e+15 obj 2909.07 guess 2898.15 branching on 15
+Clp0000I Optimal - objective value -2894.2
+Node 4 depth 4 unsatisfied 1 sum 9.933e+15 obj 2894.2 guess 2883.08 branching on 165
+Clp0000I Optimal - objective value -2879
+Node 5 depth 5 unsatisfied 1 sum 1.93888e+16 obj 2879 guess 2859.11 branching on 103
+Clp0000I Optimal - objective value -2845.8571
+Clp0000I Optimal - objective value -2705.6087
+Clp0000I Optimal - objective value -2705.6087
+Clp0000I Optimal - objective value -2693.8444
+Clp0000I Optimal - objective value -2693.8444
+Clp0000I Optimal - objective value -2693.1333
+Clp0000I Optimal - objective value -2693.1333
+Clp0000I Optimal - objective value -2690.8261
+Clp0000I Optimal - objective value -2690.8261
+Node 6 depth 6 unsatisfied 1 sum 8.31063e+15 obj 2690.83 guess 2677.1 branching on 248
+Clp0000I Optimal - objective value -2688.6774
+Clp0000I Optimal - objective value -2685.2857
+Clp0000I Optimal - objective value -2685.2857
+Clp0000I Optimal - objective value -2685
+Clp0000I Optimal - objective value -2685
+Clp0000I Optimal - objective value -2684.9048
+Clp0000I Optimal - objective value -2684.9048
+Clp0000I Optimal - objective value -2679.7826
+Clp0000I Optimal - objective value -2679.7826
+Node 7 depth 7 unsatisfied 1 sum 6.25299e+15 obj 2679.78 guess 2669.45 branching on 68
+Clp0000I Optimal - objective value -2676.3115
+Clp0000I Optimal - objective value -2675.5797
+Clp0000I Optimal - objective value -2675.5797
+Clp0000I Optimal - objective value -2674.5238
+Clp0000I Optimal - objective value -2674.5238
+Clp0000I Optimal - objective value -2673.0247
+Clp0000I Optimal - objective value -2673.0247
+Clp0000I Optimal - objective value -2672.8889
+Clp0000I Optimal - objective value -2672.8889
+Node 8 depth 8 unsatisfied 1 sum 3.0402e+15 obj 2672.89 guess 2668.03 branching on 189
+Clp0000I Optimal - objective value -2672.7231
+Clp0000I Optimal - objective value -2672.6875
+Clp0000I Optimal - objective value -2672.6875
+Clp0000I Optimal - objective value -2672.4286
+Clp0000I Optimal - objective value -2672.4286
+Clp0000I Optimal - objective value -2672.2444
+Clp0000I Optimal - objective value -2672.2444
+Clp0000I Optimal - objective value -2671.5263
+Clp0000I Optimal - objective value -2671.5263
+Node 9 depth 9 unsatisfied 1 sum 2.25835e+15 obj 2671.53 guess 2667.93 branching on 204
+Clp0000I Optimal - objective value -2670.32
+Clp0000I Optimal - objective value -2670.2
+Clp0000I Optimal - objective value -2670.2
+Clp0000I Optimal - objective value -2669.7865
+Clp0000I Optimal - objective value -2669.7865
+Clp0000I Optimal - objective value -2669.1972
+Clp0000I Optimal - objective value -2669.1972
+Clp0000I Optimal - objective value -2669.0923
+Clp0000I Optimal - objective value -2669.0923
+Node 10 depth 10 unsatisfied 1 sum 2.14681e+15 obj 2669.09 guess 2665.64 branching on 31
+Clp0000I Optimal - objective value -2667.6087
+Clp0000I Optimal - objective value -2667.5843
+Clp0000I Optimal - objective value -2667.5843
+Clp0000I Optimal - objective value -2667
+Clp0000I Optimal - objective value -2667
+Clp0000I Optimal - objective value -2666.3208
+Clp0000I Optimal - objective value -2666.3208
+Clp0000I Optimal - objective value -2666.2364
+Clp0000I Optimal - objective value -2666.2364
+Node 11 depth 11 unsatisfied 1 sum 1.1131e+15 obj 2666.24 guess 2664.49 branching on 215
+Clp0000I Optimal - objective value -2665.2764
+Clp0000I Optimal - objective value -2663.4444
+Clp0000I Optimal - objective value -2663.4444
+Clp0000I Optimal - objective value -2663.1879
+Clp0000I Optimal - objective value -2663.1879
+Clp0000I Optimal - objective value -2662.604
+Clp0000I Optimal - objective value -2662.604
+Clp0000I Optimal - objective value -2662.4793
+Clp0000I Optimal - objective value -2662.4793
+Node 12 depth 12 unsatisfied 1 sum 6.42189e+14 obj 2662.48 guess 2661.49 branching on 71
+Clp0000I Optimal - objective value -2661.5287
+Clp0000I Optimal - objective value -2661.4545
+Clp0000I Optimal - objective value -2661.4545
+Clp0000I Optimal - objective value -2661.3158
+Clp0000I Optimal - objective value -2661.3158
+Clp0000I Optimal - objective value -2661.169
+Clp0000I Optimal - objective value -2661.169
+Clp0000I Optimal - objective value -2660.9767
+Clp0000I Optimal - objective value -2660.9767
+Node 13 depth 13 unsatisfied 1 sum 5.67435e+14 obj 2660.98 guess 2660.1 branching on 241
+Clp0000I Optimal - objective value -2660.68
+Clp0000I Optimal - objective value -2660.5207
+Clp0000I Optimal - objective value -2660.5207
+Clp0000I Optimal - objective value -2660.5068
+Clp0000I Optimal - objective value -2660.5068
+Clp0000I Optimal - objective value -2660.3846
+Clp0000I Optimal - objective value -2660.3846
+Clp0000I Optimal - objective value -2660.3023
+Clp0000I Optimal - objective value -2660.3023
+Node 14 depth 14 unsatisfied 1 sum 4.08848e+14 obj 2660.3 guess 2659.67 branching on 90
+Clp0000I Optimal - objective value -2660.2762
+Clp0000I Optimal - objective value -2660.2571
+Clp0000I Optimal - objective value -2660.2571
+Clp0000I Optimal - objective value -2660.1389
+Clp0000I Optimal - objective value -2660.1389
+Clp0000I Optimal - objective value -2659.7606
+Clp0000I Optimal - objective value -2659.7606
+Clp0000I Optimal - objective value -2659.6557
+Clp0000I Optimal - objective value -2659.6557
+Node 15 depth 15 unsatisfied 1 sum 1.24105e+15 obj 2659.66 guess 2657.65 branching on 20
+Clp0000I Optimal - objective value -2659.5333
+Clp0000I Optimal - objective value -2659.4706
+Clp0000I Optimal - objective value -2659.4706
+Clp0000I Optimal - objective value -2659.4348
+Clp0000I Optimal - objective value -2659.4348
+Clp0000I Optimal - objective value -2659.3493
+Clp0000I Optimal - objective value -2659.3493
+Clp0000I Optimal - objective value -2659.2432
+Clp0000I Optimal - objective value -2659.2432
+Node 16 depth 16 unsatisfied 1 sum 4.8747e+14 obj 2659.24 guess 2658.49 branching on 72
+Clp0000I Optimal - objective value -2659.2041
+Clp0000I Optimal - objective value -2659.0288
+Clp0000I Optimal - objective value -2659.0288
+Clp0000I Optimal - objective value -2659
+Clp0000I Optimal - objective value -2659
+Clp0000I Optimal - objective value -2658.8548
+Clp0000I Optimal - objective value -2658.8548
+Clp0000I Optimal - objective value -2658.5907
+Clp0000I Optimal - objective value -2658.5907
+Node 17 depth 17 unsatisfied 1 sum 3.11433e+14 obj 2658.59 guess 2658.11 branching on 164
+Clp0000I Optimal - objective value -2658.5763
+Clp0000I Optimal - objective value -2658.572
+Clp0000I Optimal - objective value -2658.572
+Clp0000I Optimal - objective value -2658.5606
+Clp0000I Optimal - objective value -2658.5606
+Clp0000I Optimal - objective value -2658.3037
+Clp0000I Optimal - objective value -2658.3037
+Clp0000I Optimal - objective value -2658.0491
+Clp0000I Optimal - objective value -2658.0491
+Node 18 depth 18 unsatisfied 1 sum 2.35357e+14 obj 2658.05 guess 2657.69 branching on 89
+Clp0000I Optimal - objective value -2657.7629
+Clp0000I Optimal - objective value -2657.6462
+Clp0000I Optimal - objective value -2657.6462
+Clp0000I Optimal - objective value -2657.6309
+Clp0000I Optimal - objective value -2657.6309
+Clp0000I Optimal - objective value -2657.5143
+Clp0000I Optimal - objective value -2657.5143
+Clp0000I Optimal - objective value -2657.4558
+Clp0000I Optimal - objective value -2657.4558
+Node 19 depth 19 unsatisfied 1 sum 2.70173e+14 obj 2657.46 guess 2657.04 branching on 38
+Clp0000I Optimal - objective value -2657.3478
+Clp0000I Optimal - objective value -2657.3269
+Clp0000I Optimal - objective value -2657.3269
+Clp0000I Optimal - objective value -2657.096
+Clp0000I Optimal - objective value -2657.096
+Clp0000I Optimal - objective value -2657.0272
+Clp0000I Optimal - objective value -2657.0272
+Clp0000I Optimal - objective value -2656.9598
+Clp0000I Optimal - objective value -2656.9598
+Node 20 depth 20 unsatisfied 1 sum 2.19125e+14 obj 2656.96 guess 2656.62 branching on 150
+Clp0000I Optimal - objective value -2656.875
+Clp0000I Optimal - objective value -2656.8226
+Clp0000I Optimal - objective value -2656.8226
+Clp0000I Optimal - objective value -2656.7703
+Clp0000I Optimal - objective value -2656.7703
+Clp0000I Optimal - objective value -2656.7063
+Clp0000I Optimal - objective value -2656.7063
+Clp0000I Optimal - objective value -2656.5849
+Clp0000I Optimal - objective value -2656.5849
+Node 21 depth 21 unsatisfied 1 sum 3.20032e+14 obj 2656.58 guess 2656.09 branching on 25
+Clp0000I Optimal - objective value -2656.5849
+Clp0000I Optimal - objective value -2656.4822
+Clp0000I Optimal - objective value -2656.4822
+Clp0000I Optimal - objective value -2656.4521
+Clp0000I Optimal - objective value -2656.4521
+Clp0000I Optimal - objective value -2656.3184
+Clp0000I Optimal - objective value -2656.3184
+Clp0000I Optimal - objective value -2656.28
+Clp0000I Optimal - objective value -2656.28
+Node 22 depth 22 unsatisfied 1 sum 2.41392e+14 obj 2656.28 guess 2655.91 branching on 196
+Clp0000I Optimal - objective value -2656.2136
+Clp0000I Optimal - objective value -2656.1973
+Clp0000I Optimal - objective value -2656.1973
+Clp0000I Optimal - objective value -2656.1966
+Clp0000I Optimal - objective value -2656.1966
+Clp0000I Optimal - objective value -2656.1822
+Clp0000I Optimal - objective value -2656.1822
+Clp0000I Optimal - objective value -2656.1574
+Clp0000I Optimal - objective value -2656.1574
+Node 23 depth 23 unsatisfied 1 sum 1.95228e+14 obj 2656.16 guess 2655.86 branching on 136
+Clp0000I Optimal - objective value -2656.0725
+Clp0000I Optimal - objective value -2656.0551
+Clp0000I Optimal - objective value -2656.0551
+Clp0000I Optimal - objective value -2656.0462
+Clp0000I Optimal - objective value -2656.0462
+Clp0000I Optimal - objective value -2656.0323
+Clp0000I Optimal - objective value -2656.0323
+Clp0000I Optimal - objective value -2655.9554
+Clp0000I Optimal - objective value -2655.9554
+Node 24 depth 24 unsatisfied 1 sum 1.39261e+14 obj 2655.96 guess 2655.74 branching on 216
+Clp0000I Optimal - objective value -2655.9544
+Clp0000I Optimal - objective value -2655.914
+Clp0000I Optimal - objective value -2655.914
+Clp0000I Optimal - objective value -2655.9041
+Clp0000I Optimal - objective value -2655.9041
+Clp0000I Optimal - objective value -2655.8579
+Clp0000I Optimal - objective value -2655.8579
+Clp0000I Optimal - objective value -2655.8195
+Clp0000I Optimal - objective value -2655.8195
+Node 25 depth 25 unsatisfied 1 sum 1.01759e+14 obj 2655.82 guess 2655.66 branching on 144
+Clp0000I Optimal - objective value -2655.8019
+Clp0000I Optimal - objective value -2655.7552
+Clp0000I Optimal - objective value -2655.7552
+Clp0000I Optimal - objective value -2655.6542
+Clp0000I Optimal - objective value -2655.6542
+Clp0000I Optimal - objective value -2655.6294
+Clp0000I Optimal - objective value -2655.6294
+Clp0000I Optimal - objective value -2655.5
+Clp0000I Optimal - objective value -2655.5
+Node 26 depth 26 unsatisfied 1 sum 1.41499e+14 obj 2655.5 guess 2655.28 branching on 193
+Clp0000I Optimal - objective value -2655.4873
+Clp0000I Optimal - objective value -2655.4306
+Clp0000I Optimal - objective value -2655.4306
+Clp0000I Optimal - objective value -2655.4172
+Clp0000I Optimal - objective value -2655.4172
+Clp0000I Optimal - objective value -2655.3787
+Clp0000I Optimal - objective value -2655.3787
+Clp0000I Optimal - objective value -2655.3707
+Clp0000I Optimal - objective value -2655.3707
+Node 27 depth 27 unsatisfied 1 sum 1.83982e+14 obj 2655.37 guess 2655.09 branching on 115
+Clp0000I Optimal - objective value -2655.3605
+Clp0000I Optimal - objective value -2655.3486
+Clp0000I Optimal - objective value -2655.3486
+Clp0000I Optimal - objective value -2655.3443
+Clp0000I Optimal - objective value -2655.3443
+Clp0000I Optimal - objective value -2655.3204
+Clp0000I Optimal - objective value -2655.3204
+Clp0000I Optimal - objective value -2655.3167
+Clp0000I Optimal - objective value -2655.3167
+Node 28 depth 28 unsatisfied 1 sum 1.50958e+14 obj 2655.32 guess 2655.09 branching on 126
+Clp0000I Optimal - objective value -2655.1864
+Clp0000I Optimal - objective value -2655.1642
+Clp0000I Optimal - objective value -2655.1642
+Clp0000I Optimal - objective value -2655.1635
+Clp0000I Optimal - objective value -2655.1635
+Clp0000I Optimal - objective value -2655.1207
+Clp0000I Optimal - objective value -2655.1207
+Clp0000I Optimal - objective value -2655.1026
+Clp0000I Optimal - objective value -2655.1026
+Node 29 depth 29 unsatisfied 1 sum 1.27654e+14 obj 2655.1 guess 2654.91 branching on 179
+Clp0000I Optimal - objective value -2655.0593
+Clp0000I Optimal - objective value -2655.0583
+Clp0000I Optimal - objective value -2655.0583
+Clp0000I Optimal - objective value -2655.0271
+Clp0000I Optimal - objective value -2655.0271
+Clp0000I Optimal - objective value -2654.9426
+Clp0000I Optimal - objective value -2654.9426
+Clp0000I Optimal - objective value -2654.9423
+Clp0000I Optimal - objective value -2654.9423
+Node 30 depth 30 unsatisfied 1 sum 6.95211e+13 obj 2654.94 guess 2654.84 branching on 192
+Clp0000I Optimal - objective value -2654.8851
+Clp0000I Optimal - objective value -2654.8376
+Clp0000I Optimal - objective value -2654.8376
+Clp0000I Optimal - objective value -2654.8218
+Clp0000I Optimal - objective value -2654.8218
+Clp0000I Optimal - objective value -2654.7714
+Clp0000I Optimal - objective value -2654.7714
+Clp0000I Optimal - objective value -2654.7604
+Clp0000I Optimal - objective value -2654.7604
+Node 31 depth 31 unsatisfied 1 sum 7.47532e+13 obj 2654.76 guess 2654.65 branching on 125
+Clp0000I Optimal - objective value -2654.7598
+Clp0000I Optimal - objective value -2654.7563
+Clp0000I Optimal - objective value -2654.7563
+Clp0000I Optimal - objective value -2654.7516
+Clp0000I Optimal - objective value -2654.7516
+Clp0000I Optimal - objective value -2654.7456
+Clp0000I Optimal - objective value -2654.7456
+Clp0000I Optimal - objective value -2654.7143
+Clp0000I Optimal - objective value -2654.7143
+Node 32 depth 32 unsatisfied 1 sum 1.30426e+14 obj 2654.71 guess 2654.51 branching on 29
+Clp0000I Optimal - objective value -2654.6312
+Clp0000I Optimal - objective value -2654.6268
+Clp0000I Optimal - objective value -2654.6268
+Clp0000I Optimal - objective value -2654.5859
+Clp0000I Optimal - objective value -2654.5859
+Clp0000I Optimal - objective value -2654.5572
+Clp0000I Optimal - objective value -2654.5572
+Clp0000I Optimal - objective value -2654.5183
+Clp0000I Optimal - objective value -2654.5183
+Node 33 depth 33 unsatisfied 1 sum 7.89611e+13 obj 2654.52 guess 2654.4 branching on 197
+Clp0000I Optimal - objective value -2654.517
+Clp0000I Optimal - objective value -2654.5159
+Clp0000I Optimal - objective value -2654.5159
+Clp0000I Optimal - objective value -2654.5
+Clp0000I Optimal - objective value -2654.5
+Clp0000I Optimal - objective value -2654.4867
+Clp0000I Optimal - objective value -2654.4867
+Clp0000I Optimal - objective value -2654.4498
+Clp0000I Optimal - objective value -2654.4498
+Node 34 depth 34 unsatisfied 1 sum 6.3774e+13 obj 2654.45 guess 2654.35 branching on 167
+Clp0000I Optimal - objective value -2654.4286
+Clp0000I Optimal - objective value -2654.3947
+Clp0000I Optimal - objective value -2654.3947
+Clp0000I Optimal - objective value -2654.382
+Clp0000I Optimal - objective value -2654.382
+Clp0000I Optimal - objective value -2654.3212
+Clp0000I Optimal - objective value -2654.3212
+Clp0000I Optimal - objective value -2654.3126
+Clp0000I Optimal - objective value -2654.3126
+Node 35 depth 35 unsatisfied 1 sum 6.73974e+13 obj 2654.31 guess 2654.21 branching on 13
+Clp0000I Optimal - objective value -2654.1712
+Clp0000I Optimal - objective value -2654.145
+Clp0000I Optimal - objective value -2654.145
+Clp0000I Optimal - objective value -2654.1111
+Clp0000I Optimal - objective value -2654.1111
+Clp0000I Optimal - objective value -2654.1002
+Clp0000I Optimal - objective value -2654.1002
+Clp0000I Optimal - objective value -2653.905
+Clp0000I Optimal - objective value -2653.905
+Node 36 depth 36 unsatisfied 1 sum 6.19788e+13 obj 2653.9 guess 2653.81 branching on 185
+Clp0000I Optimal - objective value -2653.8688
+Clp0000I Optimal - objective value -2653.8687
+Clp0000I Optimal - objective value -2653.8687
+Clp0000I Optimal - objective value -2653.7876
+Clp0000I Optimal - objective value -2653.7876
+Clp0000I Optimal - objective value -2653.7532
+Clp0000I Optimal - objective value -2653.7532
+Clp0000I Optimal - objective value -2653.7411
+Clp0000I Optimal - objective value -2653.7411
+Node 37 depth 37 unsatisfied 1 sum 6.74306e+13 obj 2653.74 guess 2653.64 branching on 225
+Clp0000I Optimal - objective value -2653.6883
+Clp0000I Optimal - objective value -2653.6807
+Clp0000I Optimal - objective value -2653.6807
+Clp0000I Optimal - objective value -2653.5965
+Clp0000I Optimal - objective value -2653.5965
+Clp0000I Optimal - objective value -2653.5941
+Clp0000I Optimal - objective value -2653.5941
+Clp0000I Optimal - objective value -2653.5708
+Clp0000I Optimal - objective value -2653.5708
+Node 38 depth 38 unsatisfied 1 sum 5.6291e+13 obj 2653.57 guess 2653.49 branching on 170
+Clp0000I Optimal - objective value -2653.5588
+Clp0000I Optimal - objective value -2653.5581
+Clp0000I Optimal - objective value -2653.5581
+Clp0000I Optimal - objective value -2653.4587
+Clp0000I Optimal - objective value -2653.4587
+Clp0000I Optimal - objective value -2653.4543
+Clp0000I Optimal - objective value -2653.4543
+Clp0000I Optimal - objective value -2653.3934
+Clp0000I Optimal - objective value -2653.3934
+Node 39 depth 39 unsatisfied 1 sum 5.20011e+13 obj 2653.39 guess 2653.31 branching on 149
+Clp0000I Optimal - objective value -2653.3795
+Clp0000I Optimal - objective value -2653.3445
+Clp0000I Optimal - objective value -2653.3445
+Clp0000I Optimal - objective value -2653.3194
+Clp0000I Optimal - objective value -2653.3194
+Clp0000I Optimal - objective value -2653.2183
+Clp0000I Optimal - objective value -2653.2183
+Clp0000I Optimal - objective value -2653.1457
+Clp0000I Optimal - objective value -2653.1457
+Node 40 depth 40 unsatisfied 1 sum 1.58836e+14 obj 2653.15 guess 2652.9 branching on 210
+Clp0000I Optimal - objective value -2653.1421
+Clp0000I Optimal - objective value -2653.0707
+Clp0000I Optimal - objective value -2653.0707
+Clp0000I Optimal - objective value -2653.0071
+Clp0000I Optimal - objective value -2653.0071
+Clp0000I Optimal - objective value -2652.9773
+Clp0000I Optimal - objective value -2652.9773
+Clp0000I Optimal - objective value -2652.9479
+Clp0000I Optimal - objective value -2652.9479
+Node 41 depth 41 unsatisfied 1 sum 6.18338e+13 obj 2652.95 guess 2652.85 branching on 45
+Clp0000I Optimal - objective value -2652.9355
+Clp0000I Optimal - objective value -2652.8935
+Clp0000I Optimal - objective value -2652.8935
+Clp0000I Optimal - objective value -2652.809
+Clp0000I Optimal - objective value -2652.809
+Clp0000I Optimal - objective value -2652.8049
+Clp0000I Optimal - objective value -2652.8049
+Clp0000I Optimal - objective value -2652.7442
+Clp0000I Optimal - objective value -2652.7442
+Node 42 depth 42 unsatisfied 1 sum 1.32777e+14 obj 2652.74 guess 2652.54 branching on 244
+Clp0000I Optimal - objective value -2652.7096
+Clp0000I Optimal - objective value -2652.6496
+Clp0000I Optimal - objective value -2652.6496
+Clp0000I Optimal - objective value -2652.6163
+Clp0000I Optimal - objective value -2652.6163
+Clp0000I Optimal - objective value -2652.6032
+Clp0000I Optimal - objective value -2652.6032
+Clp0000I Optimal - objective value -2652.6
+Clp0000I Optimal - objective value -2652.6
+Node 43 depth 43 unsatisfied 1 sum 2.18902e+14 obj 2652.6 guess 2652.26 branching on 171
+Clp0000I Optimal - objective value -2652.5615
+Clp0000I Optimal - objective value -2652.505
+Clp0000I Optimal - objective value -2652.505
+Clp0000I Optimal - objective value -2652.4874
+Clp0000I Optimal - objective value -2652.4874
+Clp0000I Optimal - objective value -2652.4766
+Clp0000I Optimal - objective value -2652.4766
+Clp0000I Optimal - objective value -2652.4545
+Clp0000I Optimal - objective value -2652.4545
+Node 44 depth 44 unsatisfied 1 sum 4.77267e+13 obj 2652.45 guess 2652.38 branching on 117
+Clp0000I Optimal - objective value -2652.4215
+Clp0000I Optimal - objective value -2652.4194
+Clp0000I Optimal - objective value -2652.4194
+Clp0000I Optimal - objective value -2652.2944
+Clp0000I Optimal - objective value -2652.2944
+Clp0000I Optimal - objective value -2652.2523
+Clp0000I Optimal - objective value -2652.2523
+Clp0000I Optimal - objective value -2652.2356
+Clp0000I Optimal - objective value -2652.2356
+Node 45 depth 45 unsatisfied 1 sum 5.62373e+13 obj 2652.24 guess 2652.15 branching on 64
+Clp0000I Optimal - objective value -2652.1413
+Clp0000I Optimal - objective value -2652.1096
+Clp0000I Optimal - objective value -2652.1096
+Clp0000I Optimal - objective value -2652.0667
+Clp0000I Optimal - objective value -2652.0667
+Clp0000I Optimal - objective value -2652.0427
+Clp0000I Optimal - objective value -2652.0427
+Clp0000I Optimal - objective value -2652
+Clp0000I Optimal - objective value -2652
+Node 46 depth 46 unsatisfied 1 sum 5.46867e+13 obj 2652 guess 2651.92 branching on 240
+Clp0000I Optimal - objective value -2651.9366
+Clp0000I Optimal - objective value -2651.8889
+Clp0000I Optimal - objective value -2651.8889
+Clp0000I Optimal - objective value -2651.8546
+Clp0000I Optimal - objective value -2651.8546
+Clp0000I Optimal - objective value -2651.8378
+Clp0000I Optimal - objective value -2651.8378
+Clp0000I Optimal - objective value -2651.8317
+Clp0000I Optimal - objective value -2651.8317
+Node 47 depth 47 unsatisfied 1 sum 6.75615e+13 obj 2651.83 guess 2651.73 branching on 67
+Clp0000I Optimal - objective value -2651.8233
+Clp0000I Optimal - objective value -2651.8123
+Clp0000I Optimal - objective value -2651.8123
+Clp0000I Optimal - objective value -2651.7902
+Clp0000I Optimal - objective value -2651.7902
+Clp0000I Optimal - objective value -2651.7549
+Clp0000I Optimal - objective value -2651.7549
+Clp0000I Optimal - objective value -2651.6392
+Clp0000I Optimal - objective value -2651.6392
+Node 48 depth 48 unsatisfied 1 sum 1.02379e+14 obj 2651.64 guess 2651.48 branching on 92
+Clp0000I Optimal - objective value -2651.6178
+Clp0000I Optimal - objective value -2651.586
+Clp0000I Optimal - objective value -2651.586
+Clp0000I Optimal - objective value -2651.5482
+Clp0000I Optimal - objective value -2651.5482
+Clp0000I Optimal - objective value -2651.5385
+Clp0000I Optimal - objective value -2651.5385
+Clp0000I Optimal - objective value -2651.5296
+Clp0000I Optimal - objective value -2651.5296
+Node 49 depth 49 unsatisfied 1 sum 6.81872e+13 obj 2651.53 guess 2651.43 branching on 237
+Clp0006I 0  Obj -2651.5296 Primal inf 0.0080472897 (1)
+Clp0000I Optimal - objective value -2651.5274
+Clp0000I Optimal - objective value -2651.519
+Clp0000I Optimal - objective value -2651.519
+Clp0000I Optimal - objective value -2651.4855
+Clp0000I Optimal - objective value -2651.4855
+Clp0000I Optimal - objective value -2651.4737
+Clp0000I Optimal - objective value -2651.4737
+Clp0000I Optimal - objective value -2651.4469
+Clp0000I Optimal - objective value -2651.4469
+Node 50 depth 50 unsatisfied 1 sum 1.06059e+14 obj 2651.45 guess 2651.28 branching on 69
+Clp0000I Optimal - objective value -2651.4108
+Clp0000I Optimal - objective value -2651.3707
+Clp0000I Optimal - objective value -2651.3707
+Clp0000I Optimal - objective value -2651.2424
+Clp0000I Optimal - objective value -2651.2424
+Clp0000I Optimal - objective value -2651.2345
+Clp0000I Optimal - objective value -2651.2345
+Clp0000I Optimal - objective value -2651.2061
+Clp0000I Optimal - objective value -2651.2061
+Node 51 depth 51 unsatisfied 1 sum 5.69139e+13 obj 2651.21 guess 2651.12 branching on 66
+Clp0000I Optimal - objective value -2651.1971
+Clp0000I Optimal - objective value -2651.1005
+Clp0000I Optimal - objective value -2651.1005
+Clp0000I Optimal - objective value -2651.0933
+Clp0000I Optimal - objective value -2651.0933
+Clp0000I Optimal - objective value -2651.0907
+Clp0000I Optimal - objective value -2651.0907
+Clp0000I Optimal - objective value -2651.0719
+Clp0000I Optimal - objective value -2651.0719
+Node 52 depth 52 unsatisfied 1 sum 1.08905e+14 obj 2651.07 guess 2650.9 branching on 184
+Clp0000I Optimal - objective value -2651.0685
+Clp0000I Optimal - objective value -2651.0615
+Clp0000I Optimal - objective value -2651.0615
+Clp0000I Optimal - objective value -2651.0612
+Clp0000I Optimal - objective value -2651.0612
+Clp0000I Optimal - objective value -2651.029
+Clp0000I Optimal - objective value -2651.029
+Clp0000I Optimal - objective value -2651.0143
+Clp0000I Optimal - objective value -2651.0143
+Node 53 depth 53 unsatisfied 1 sum 6.42867e+13 obj 2651.01 guess 2650.92 branching on 39
+Clp0000I Optimal - objective value -2651.0137
+Clp0000I Optimal - objective value -2651.0111
+Clp0000I Optimal - objective value -2651.0111
+Clp0000I Optimal - objective value -2651.0089
+Clp0000I Optimal - objective value -2651.0089
+Clp0000I Optimal - objective value -2651
+Cbc0016I Integer solution of 2651 found by strong branching after 248 iterations and 54 nodes (0.75 seconds)
+Clp0000I Optimal - objective value -2651
+Node 54 depth 54 unsatisfied 1 sum 3.95896e+13 obj 2651 guess 2650.94 branching on -1
+Clp0001I Primal infeasible - objective value 6005
+Clp0001I Primal infeasible - objective value 6132
+Clp0001I Primal infeasible - objective value 11711
+Clp0001I Primal infeasible - objective value 12583
+Clp0001I Primal infeasible - objective value 10292
+Clp0001I Primal infeasible - objective value 19932
+Clp0001I Primal infeasible - objective value 32669
+Clp0001I Primal infeasible - objective value 33376
+Clp0001I Primal infeasible - objective value 42636
+Clp0001I Primal infeasible - objective value 9586
+Clp0001I Primal infeasible - objective value 28292
+Clp0001I Primal infeasible - objective value 42728
+Clp0001I Primal infeasible - objective value 53519
+Clp0001I Primal infeasible - objective value 42789
+Clp0001I Primal infeasible - objective value 50143
+Clp0001I Primal infeasible - objective value 30762
+Clp0001I Primal infeasible - objective value 39617
+Clp0001I Primal infeasible - objective value 47173
+Clp0001I Primal infeasible - objective value 64230
+Clp0001I Primal infeasible - objective value 84957
+Clp0001I Primal infeasible - objective value 56926
+Clp0001I Primal infeasible - objective value 40742
+Clp0001I Primal infeasible - objective value 48302
+Clp0001I Primal infeasible - objective value 55442
+Clp0001I Primal infeasible - objective value 101248
+Clp0001I Primal infeasible - objective value 90251
+Clp0001I Primal infeasible - objective value 47906
+Clp0001I Primal infeasible - objective value 79039
+Clp0001I Primal infeasible - objective value 95472
+Clp0001I Primal infeasible - objective value 87057
+Clp0001I Primal infeasible - objective value 92074
+Clp0001I Primal infeasible - objective value 81709
+Clp0001I Primal infeasible - objective value 95789
+Clp0001I Primal infeasible - objective value 101003
+Clp0001I Primal infeasible - objective value 29167
+Clp0001I Primal infeasible - objective value 79622
+Clp0001I Primal infeasible - objective value 33730
+Clp0001I Primal infeasible - objective value 18141
+Clp0001I Primal infeasible - objective value 96567
+Clp0001I Primal infeasible - objective value 79257
+Clp0001I Primal infeasible - objective value 79713
+Clp0001I Primal infeasible - objective value 62169
+Clp0001I Primal infeasible - objective value 38548
+Clp0001I Primal infeasible - objective value 58722
+Clp0001I Primal infeasible - objective value 35304
+Clp0001I Primal infeasible - objective value 68074
+Clp0001I Primal infeasible - objective value 32717
+Clp0001I Primal infeasible - objective value 57240
+Clp0000I Optimal - objective value -2734.913
+Clp0000I Optimal - objective value -2653
+Cbc0016I Integer solution of 2653 found by strong branching after 298 iterations and 103 nodes (0.77 seconds)
+Clp0000I Optimal - objective value -2653
+Node 103 depth 6 unsatisfied 1 sum 2.22361e+07 obj 2653 guess 2635.33 branching on -1
+Clp0000I Optimal - objective value -2666.8261
+Cbc0014I Cut generator 0 (Odd number of items) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)
+Node 104 depth 5 unsatisfied 1 sum 2.06539e+07 obj 2666.83 guess 2635.12 branching on 137
+Clp0001I Primal infeasible - objective value -2503
+Clp0001I Primal infeasible - objective value -2666.8261
+Clp0000I Optimal - objective value -2755.1739
+Clp0000I Optimal - objective value -2720.8667
+Clp0000I Optimal - objective value -2720.8667
+Node 107 depth 4 unsatisfied 1 sum 6.48688e+06 obj 2720.87 guess 2714.49 branching on -1
+Clp0000I Optimal - objective value -2854.2174
+Clp0000I Optimal - objective value -2830.6889
+Clp0000I Optimal - objective value -2830.6889
+Clp0000I Optimal - objective value -2829.2667
+Clp0000I Optimal - objective value -2829.2667
+Clp0000I Optimal - objective value -2824.6522
+Clp0000I Optimal - objective value -2824.6522
+Clp0000I Optimal - objective value -2820.3548
+Clp0000I Optimal - objective value -2820.3548
+Node 108 depth 3 unsatisfied 1 sum 1.70729e+07 obj 2820.35 guess 2813.55 branching on 224
+Clp0000I Optimal - objective value -2813.5714
+Clp0000I Optimal - objective value -2812.8095
+Clp0000I Optimal - objective value -2812.8095
+Clp0000I Optimal - objective value -2787.8571
+Clp0000I Optimal - objective value -2787.8571
+Clp0000I Optimal - objective value -2769.8889
+Clp0000I Optimal - objective value -2769.8889
+Clp0000I Optimal - objective value -2745
+Cbc0016I Integer solution of 2745 found by strong branching after 320 iterations and 109 nodes (0.79 seconds)
+Clp0000I Optimal - objective value -2745
+Node 109 depth 4 unsatisfied 1 sum 909738 obj 2745 guess 2744.48 branching on -1
+Clp0001I Primal infeasible - objective value -2401.2143
+Clp0000I Optimal - objective value -2898.8261
+Cbc0014I Cut generator 0 (Odd number of items) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)
+Clp0000I Optimal - objective value -2802
+Cbc0016I Integer solution of 2802 found by strong branching after 323 iterations and 111 nodes (0.80 seconds)
+Node 111 depth 2 unsatisfied 1 sum 1.87926e+09 obj 2898.83 guess 2867.12 branching on 137
+Clp0000I Optimal - objective value -2863.5333
+Cbc0014I Cut generator 0 (Odd number of items) - 0 row cuts average 0.0 elements, 0 column cuts (0 active)
+Clp0000I Optimal - objective value -2861.4
+Clp0000I Optimal - objective value -2861.4
+Clp0000I Optimal - objective value -2848.0323
+Clp0000I Optimal - objective value -2848.0323
+Clp0000I Optimal - objective value -2836.7143
+Clp0000I Optimal - objective value -2836.7143
+Node 112 depth 3 unsatisfied 1 sum 1.37522e+07 obj 2836.71 guess 2810.3 branching on 4
+Clp0001I Primal infeasible - objective value -2735
+Clp0001I Primal infeasible - objective value -2836.7143
+Clp0000I Optimal - objective value -2802
+Clp0000I Optimal - objective value -2850.8444
+Clp0001I Primal infeasible - objective value -2326
+Cbc0001I Search completed - best objective 2802, took 334 iterations and 116 nodes (0.81 seconds)
+Cbc0032I Strong branching done 22 times (21 iterations), fathomed 4 nodes and fixed 0 variables
+Cbc0035I Maximum depth 53, 1455 variables fixed on reduced cost
+Clp0000I Optimal - objective value -2802
+Clp0000I Optimal - objective value -2802
+0 has value 0 price: 320 weight: 247
+1 has value 0 price: 432 weight: 260
+2 has value 0 price: 1 weight: 448
+3 has value 0 price: 499 weight: 264
+4 has value 0 price: 178 weight: 21
+5 has value 0 price: 156 weight: 365
+6 has value 0 price: 247 weight: 236
+7 has value 0 price: 134 weight: 428
+8 has value 0 price: 164 weight: 97
+9 has value 0 price: 246 weight: 195
+10 has value 0 price: 239 weight: 232
+11 has value 0 price: 418 weight: 89
+12 has value 0 price: 387 weight: 456
+13 has value 0 price: 347 weight: 419
+14 has value 0 price: 60 weight: 124
+15 has value 1 price: 387 weight: 14
+16 has value 0 price: 441 weight: 171
+17 has value 0 price: 340 weight: 40
+18 has value 0 price: 379 weight: 489
+19 has value 0 price: 174 weight: 272
+20 has value 0 price: 132 weight: 61
+21 has value 0 price: 116 weight: 445
+22 has value 0 price: 65 weight: 493
+23 has value 0 price: 17 weight: 345
+24 has value 0 price: 405 weight: 479
+25 has value 0 price: 222 weight: 159
+26 has value 0 price: 161 weight: 311
+27 has value 0 price: 187 weight: 497
+28 has value 0 price: 274 weight: 330
+29 has value 0 price: 221 weight: 238
+30 has value 0 price: 236 weight: 407
+31 has value 0 price: 294 weight: 65
+32 has value 0 price: 443 weight: 294
+33 has value 0 price: 300 weight: 35
+34 has value 1 price: 498 weight: 30
+35 has value 0 price: 110 weight: 310
+36 has value 0 price: 179 weight: 146
+37 has value 0 price: 96 weight: 410
+38 has value 0 price: 347 weight: 215
+39 has value 0 price: 1 weight: 280
+40 has value 0 price: 153 weight: 371
+41 has value 0 price: 262 weight: 279
+42 has value 0 price: 141 weight: 281
+43 has value 0 price: 201 weight: 98
+44 has value 0 price: 462 weight: 373
+45 has value 0 price: 187 weight: 384
+46 has value 0 price: 427 weight: 456
+47 has value 0 price: 133 weight: 411
+48 has value 0 price: 412 weight: 418
+49 has value 0 price: 165 weight: 175
+50 has value 0 price: 429 weight: 395
+51 has value 0 price: 340 weight: 286
+52 has value 0 price: 487 weight: 248
+53 has value 0 price: 324 weight: 140
+54 has value 0 price: 66 weight: 325
+55 has value 0 price: 319 weight: 288
+56 has value 0 price: 369 weight: 89
+57 has value 0 price: 3 weight: 196
+58 has value 0 price: 238 weight: 179
+59 has value 0 price: 372 weight: 383
+60 has value 0 price: 115 weight: 44
+61 has value 0 price: 5 weight: 292
+62 has value 0 price: 338 weight: 485
+63 has value 0 price: 232 weight: 390
+64 has value 0 price: 118 weight: 382
+65 has value 0 price: 1 weight: 293
+66 has value 0 price: 17 weight: 330
+67 has value 0 price: 63 weight: 303
+68 has value 0 price: 331 weight: 46
+69 has value 0 price: 20 weight: 179
+70 has value 0 price: 105 weight: 368
+71 has value 0 price: 485 weight: 169
+72 has value 0 price: 305 weight: 148
+73 has value 0 price: 59 weight: 382
+74 has value 0 price: 347 weight: 146
+75 has value 0 price: 310 weight: 155
+76 has value 0 price: 1 weight: 138
+77 has value 0 price: 264 weight: 55
+78 has value 0 price: 381 weight: 250
+79 has value 0 price: 49 weight: 364
+80 has value 0 price: 347 weight: 64
+81 has value 0 price: 311 weight: 142
+82 has value 0 price: 81 weight: 292
+83 has value 0 price: 361 weight: 142
+84 has value 0 price: 177 weight: 476
+85 has value 0 price: 329 weight: 208
+86 has value 0 price: 321 weight: 254
+87 has value 0 price: 279 weight: 139
+88 has value 0 price: 204 weight: 143
+89 has value 0 price: 467 weight: 265
+90 has value 0 price: 500 weight: 215
+91 has value 0 price: 478 weight: 90
+92 has value 0 price: 31 weight: 194
+93 has value 0 price: 288 weight: 121
+94 has value 0 price: 456 weight: 280
+95 has value 0 price: 247 weight: 11
+96 has value 0 price: 421 weight: 323
+97 has value 0 price: 353 weight: 65
+98 has value 0 price: 233 weight: 265
+99 has value 0 price: 175 weight: 138
+100 has value 0 price: 54 weight: 394
+101 has value 0 price: 482 weight: 45
+102 has value 0 price: 1 weight: 360
+103 has value 1 price: 339 weight: 9
+104 has value 0 price: 407 weight: 454
+105 has value 0 price: 494 weight: 298
+106 has value 0 price: 257 weight: 15
+107 has value 0 price: 213 weight: 297
+108 has value 0 price: 270 weight: 197
+109 has value 0 price: 11 weight: 438
+110 has value 0 price: 111 weight: 246
+111 has value 0 price: 229 weight: 87
+112 has value 0 price: 41 weight: 316
+113 has value 0 price: 75 weight: 14
+114 has value 0 price: 82 weight: 369
+115 has value 0 price: 224 weight: 205
+116 has value 0 price: 456 weight: 351
+117 has value 0 price: 168 weight: 462
+118 has value 0 price: 493 weight: 270
+119 has value 1 price: 434 weight: 2
+120 has value 0 price: 446 weight: 81
+121 has value 0 price: 348 weight: 343
+122 has value 0 price: 247 weight: 42
+123 has value 0 price: 28 weight: 9
+124 has value 0 price: 212 weight: 308
+125 has value 0 price: 408 weight: 434
+126 has value 0 price: 259 weight: 240
+127 has value 0 price: 424 weight: 69
+128 has value 0 price: 9 weight: 76
+129 has value 0 price: 418 weight: 387
+130 has value 0 price: 444 weight: 111
+131 has value 0 price: 180 weight: 398
+132 has value 0 price: 484 weight: 200
+133 has value 0 price: 185 weight: 169
+134 has value 0 price: 439 weight: 123
+135 has value 0 price: 454 weight: 149
+136 has value 0 price: 303 weight: 235
+137 has value 1 price: 314 weight: 23
+138 has value 0 price: 99 weight: 247
+139 has value 0 price: 196 weight: 366
+140 has value 0 price: 99 weight: 245
+141 has value 0 price: 176 weight: 222
+142 has value 0 price: 62 weight: 296
+143 has value 0 price: 259 weight: 399
+144 has value 0 price: 494 weight: 410
+145 has value 0 price: 249 weight: 214
+146 has value 0 price: 446 weight: 443
+147 has value 0 price: 382 weight: 294
+148 has value 0 price: 246 weight: 343
+149 has value 0 price: 289 weight: 483
+150 has value 0 price: 371 weight: 249
+151 has value 0 price: 378 weight: 394
+152 has value 0 price: 497 weight: 414
+153 has value 0 price: 92 weight: 447
+154 has value 0 price: 454 weight: 483
+155 has value 0 price: 24 weight: 28
+156 has value 0 price: 67 weight: 355
+157 has value 0 price: 360 weight: 326
+158 has value 0 price: 427 weight: 296
+159 has value 0 price: 447 weight: 493
+160 has value 1 price: 341 weight: 7
+161 has value 0 price: 18 weight: 307
+162 has value 0 price: 146 weight: 374
+163 has value 0 price: 386 weight: 404
+164 has value 0 price: 408 weight: 215
+165 has value 1 price: 489 weight: 15
+166 has value 0 price: 388 weight: 184
+167 has value 0 price: 395 weight: 458
+168 has value 0 price: 166 weight: 247
+169 has value 0 price: 6 weight: 390
+170 has value 0 price: 295 weight: 459
+171 has value 0 price: 40 weight: 100
+172 has value 0 price: 39 weight: 31
+173 has value 0 price: 63 weight: 430
+174 has value 0 price: 457 weight: 372
+175 has value 0 price: 218 weight: 441
+176 has value 0 price: 10 weight: 165
+177 has value 0 price: 237 weight: 218
+178 has value 0 price: 447 weight: 236
+179 has value 0 price: 280 weight: 273
+180 has value 0 price: 433 weight: 416
+181 has value 0 price: 35 weight: 45
+182 has value 0 price: 38 weight: 410
+183 has value 0 price: 375 weight: 344
+184 has value 0 price: 3 weight: 167
+185 has value 0 price: 321 weight: 442
+186 has value 0 price: 151 weight: 161
+187 has value 0 price: 470 weight: 387
+188 has value 0 price: 208 weight: 339
+189 has value 0 price: 394 weight: 72
+190 has value 0 price: 414 weight: 471
+191 has value 0 price: 470 weight: 320
+192 has value 0 price: 478 weight: 485
+193 has value 0 price: 315 weight: 280
+194 has value 0 price: 316 weight: 30
+195 has value 0 price: 483 weight: 100
+196 has value 0 price: 264 weight: 200
+197 has value 0 price: 336 weight: 382
+198 has value 0 price: 460 weight: 243
+199 has value 0 price: 158 weight: 428
+200 has value 0 price: 72 weight: 34
+201 has value 0 price: 165 weight: 258
+202 has value 0 price: 293 weight: 101
+203 has value 0 price: 487 weight: 210
+204 has value 0 price: 390 weight: 76
+205 has value 0 price: 342 weight: 337
+206 has value 0 price: 355 weight: 341
+207 has value 0 price: 478 weight: 229
+208 has value 0 price: 221 weight: 197
+209 has value 0 price: 74 weight: 53
+210 has value 0 price: 81 weight: 151
+211 has value 0 price: 129 weight: 363
+212 has value 0 price: 329 weight: 144
+213 has value 0 price: 256 weight: 282
+214 has value 0 price: 331 weight: 286
+215 has value 0 price: 419 weight: 110
+216 has value 0 price: 389 weight: 314
+217 has value 0 price: 406 weight: 106
+218 has value 0 price: 438 weight: 276
+219 has value 0 price: 254 weight: 379
+220 has value 0 price: 228 weight: 389
+221 has value 0 price: 413 weight: 303
+222 has value 0 price: 9 weight: 386
+223 has value 0 price: 160 weight: 338
+224 has value 0 price: 292 weight: 31
+225 has value 0 price: 270 weight: 394
+226 has value 0 price: 191 weight: 46
+227 has value 0 price: 183 weight: 78
+228 has value 0 price: 197 weight: 226
+229 has value 0 price: 201 weight: 327
+230 has value 0 price: 399 weight: 456
+231 has value 0 price: 249 weight: 449
+232 has value 0 price: 361 weight: 248
+233 has value 0 price: 386 weight: 61
+234 has value 0 price: 19 weight: 185
+235 has value 0 price: 10 weight: 441
+236 has value 0 price: 42 weight: 346
+237 has value 0 price: 38 weight: 287
+238 has value 0 price: 72 weight: 337
+239 has value 0 price: 323 weight: 71
+240 has value 0 price: 96 weight: 384
+241 has value 0 price: 429 weight: 172
+242 has value 0 price: 320 weight: 407
+243 has value 0 price: 288 weight: 135
+244 has value 0 price: 75 weight: 172
+245 has value 0 price: 241 weight: 271
+246 has value 0 price: 132 weight: 495
+247 has value 0 price: 155 weight: 239
+248 has value 0 price: 458 weight: 46
+249 has value 0 price: 81 weight: 410
+
+items in knapsack: 7
+knapsack weight: 100 <= 100
+knapsack price: 2802
