@@ -51,7 +51,7 @@ public:
 
             cs.insert(cut);
 
-            CoinPackedVector compCut;
+            /*CoinPackedVector compCut;
             for (int i = 0; i < n; ++i) {
                 compCut.insert(i, -1.0);
             }
@@ -59,8 +59,8 @@ public:
             OsiRowCut compRowCut;
             compRowCut.setRow(compCut);
             compRowCut.setLb(-(2 * ceil(items_inside_indexes.size() / 2) + 1));
-            compRowCut.setUb(-1);
-            cs.insert(compRowCut);
+            compRowCut.setUb(-1);*/
+            //cs.insert(compRowCut);
         }
 
 

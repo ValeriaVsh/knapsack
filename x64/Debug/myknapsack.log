@@ -1,10 +1,17 @@
-﻿  myknapsack.cpp
-C:\knapsack\knapsack\myknapsack\myknapsack.cpp(27,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\knapsack\knapsack\myknapsack\myknapsack.cpp(90,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\knapsack\knapsack\myknapsack\include\CoinHelperFunctions.hpp(360,19): warning C4244: 'argument': conversion from 'const CoinByteArray' to 'const CoinBigIndex', possible loss of data
-C:\knapsack\knapsack\myknapsack\include\CoinHelperFunctions.hpp(625): message : see reference to function template instantiation 'void CoinMemcpyN<char>(const T *,const CoinByteArray,T *)' being compiled
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: каталог Intermediate заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Intermediate.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  myknapsack.cpp
+D:\knapsack\myknapsack.cpp(27,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\knapsack\myknapsack.cpp(90,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\knapsack\include\CoinHelperFunctions.hpp(360,19): warning C4244: аргумент: преобразование "const CoinByteArray" в "const CoinBigIndex", возможна потеря данных
+  (компиляция исходного файла "myknapsack.cpp")
+  D:\knapsack\include\CoinHelperFunctions.hpp(360,19):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	D:\knapsack\include\CoinHelperFunctions.hpp(625,5):
+  	выполняется компиляция ссылки на экземпляр шаблон функции "void CoinMemcpyN<char>(const T *,const CoinByteArray,T *)"
           with
           [
               T=char
           ]
-  myknapsack.vcxproj -> C:\knapsack\knapsack\myknapsack\x64\Debug\myknapsack.exe
+  
+  myknapsack.vcxproj -> D:\knapsack\x64\Debug\myknapsack.exe
